@@ -1,0 +1,4 @@
+// Events mean Trigger (function ko trigger)
+// jo bhi data app se server or databse me jayega bo event kahalata hai
+// jese ki email password phone jayegi to ye event kahalta hai
+
